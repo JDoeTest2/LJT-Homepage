@@ -4,7 +4,7 @@ title: "Junteng Liu"
 author_profile: true
 ---
 
-I am a first-year PhD candidate in the [HKUST NLP Group](https://hkust-nlp.github.io/) at the Hong Kong University of Science and Technology, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University in June 2024. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate in the HKUST NLP Group at the Hong Kong University of Science and Technology, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University in June 2024. My research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
@@ -35,8 +35,8 @@ I am a first-year PhD candidate in the [HKUST NLP Group](https://hkust-nlp.githu
 
 ### 2025
 
-1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, and Junxian He. *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.* arXiv, 2025. First author. GitHub code repository available.
-2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. *On the Perception Bottleneck of VLMs for Chart Understanding.* arXiv, 2025. First author. GitHub code repository: Vision4Chart.
+1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, and Junxian He. *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.* Arxiv, 2025. First author. GitHub code repository available.
+2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. *On the Perception Bottleneck of VLMs for Chart Understanding.* Arxiv, 2025. First author. GitHub code repository: Vision4Chart.
 
 ### 2024
 
@@ -57,4 +57,4 @@ I am a first-year PhD candidate in the [HKUST NLP Group](https://hkust-nlp.githu
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 - GitHub: [Vicent0205](https://github.com/Vicent0205)
 - Google Scholar: [profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- X: [@junteng88716710](https://x.com/junteng88716710)
+- X: @junteng88716710
